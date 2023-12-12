@@ -1,16 +1,16 @@
 #ProjectLogin #Website: Outsized Login Page.
 
-Installed Eclipse Maven. (Chose Maven since i am using Java )
-Downloaded Selenium from the official Selenium website.
-Create a New Maven Project
-Added the selenium JAR files in the build path via properties.
-Setup all the dependency in POM.XML >> Junit, Browsers.
-Updated the project.
-Created a new package >> class file for login.
-Seperate methods based on the reused code.
-Created a beforetest and adfter test methods
-Installed Junit to run the tests
-Installed Testng to run the tests using eclipse market place
-My code work on java but break in Junit due to version issues.
-The version of chrome driver i used needed to be updated(changed a few to make it work)
-Created a few testcases.
+1. Installed Eclipse Maven. (Chose Maven since i am using Java )
+2. Downloaded Selenium from the official Selenium website.
+3. Create a New Maven Project
+4. Added the selenium JAR files in the build path via properties.
+5. Setup all the dependency in POM.XML >> Junit, Browsers.
+6. Updated the project.
+7. Created a new package >> class file for login.
+8. Seperate methods based on the reused code.
+9. Created a beforetest and adfter test methods
+10. Installed Junit to run the tests
+11. Installed Testng to run the tests using eclipse market place
+12. My code work on java but break in Junit due to version issues.
+13. The version of chrome driver i used needed to be updated(changed a few to make it work)
+14. Created a few testcases.
