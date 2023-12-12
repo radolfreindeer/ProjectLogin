@@ -13,4 +13,8 @@
 11. Installed Testng to run the tests using eclipse market place
 12. My code work on java but break in Junit due to version issues.
 13. The version of chrome driver i used needed to be updated(changed a few to make it work)
-14. Created a few testcases.
+14. Created a few testcases :
+15. Login and Logout
+16. Incorrect Email
+17. Incorrect Password
+18. When both values are incorrect. 
